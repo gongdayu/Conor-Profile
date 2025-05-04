@@ -48,27 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RyanZhenqiZhou
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=Rn0GtnIAAAAJ
+  link: https://scholar.google.com/citations?user=0fTy2tYAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ryan-zhenqi-zhou-876767221/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ryan-zhenqi-zhou
+  link: https://www.linkedin.com/in/gongdayu/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Ryan-Zhou-5
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-7182-140X
-- icon: academia
-  icon_pack: ai
-  link: https://sunybuffalo.academia.edu/RyanZhenqiZhou
+  link: https://www.researchgate.net/profile/Gongda-Yu-2
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -84,6 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou (Zhenqi Zhou) is a Ph.D. Candidate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), Consultant at [IFC](https://www.ifc.org/en/home), Research Assistant at [Weill Cornell Medical College of Cornell University](https://weill.cornell.edu/units/population-health-sciences), and Research Assistant at [GeoAI@UB Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. He is interested in GeoAI, Disaster Resilience, Public Health, Urban Analytics, and Human Mobility. Apart from studying, he likes strength training and soccer.
+Conor Gongda Yu is a Ph.D. Candidate in the [Department of Civil, Structural and Environmental Engineering](https://engineering.buffalo.edu/civil-structural-environmental.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and Research Assistant at [TRAVL@UB Lab](https://www.travllab.com/home), guided by Dr. Irina Benedyk. He is interested in Transportation Planning, Transportation Safety Analysis
+, Traveler Behavior, Human Factors, Human Mobility, Automated Vehicles. Apart from studying, he likes strength training and soccer.
 
-Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
+Download my [Resume](https://).
