@@ -73,6 +73,6 @@ highlight_name: true
 ---
 
 Conor Gongda Yu is a Ph.D. Candidate in the [Department of Civil, Structural and Environmental Engineering](https://engineering.buffalo.edu/civil-structural-environmental.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and Research Assistant at [TRAVL@UB Lab](https://www.travllab.com/home), guided by Dr. Irina Benedyk. He is interested in Transportation Planning, Transportation Safety Analysis
-, Traveler Behavior, Human Factors, Human Mobility, Automated Vehicles. Apart from studying, he likes strength training and soccer.
+, Traveler Behavior, Human Factors, Human Mobility, Automated Vehicles. Apart from studying, he likes strength Skiing and soccer.
 
 Download my [Resume](https://).
