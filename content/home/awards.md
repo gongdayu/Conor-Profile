@@ -22,11 +22,11 @@ design:
 8\. National Scholarship Award, by Department of Education, China, 2020\
 7\. Outstanding Graduate Student Award, by Nanjing Forestry University, 2020\
 6\. First-class Scholarship Award, by Nanjing Forestry University, 2020\
-5\. Best Project Award, International Digital Urban Design Week held by International Society of City & Regional Planners (ISOCARP) and Southeast University in Nanjing, 2019\
-4\. Second-class Scholarship Award, by Nanjing Forestry University, 2019\
-3\. Third-class Scholarship Award, by Zhejiang A&F University, 2017\
-2\. Second Prize, 4th ZAFU Career Planning Competition, by Zhejiang A&F University, 2016\
-1\. Third Prize, 4th ZAFU ‘Beautiful Village’ Design Competition, by Zhejiang A&F University, 2015
+5\. CSEE Graduate Leadership and Service, by University at Buffalo  2023\
+4\. ITE Upstate Annual Meeting Student Award, by ITE NY Upstate, 2024\
+3\. UB GSA Travel Grant, by University at Buffalo, 2024\
+2\. ITS-NY Dotty Drinkwater Award, by INTELLIGENT TRANSPORTATION SOCIETY OF NY(ITS NY), 2024\
+1\. Eno Leaders Development (LDC) Fellow, by The Eno Center for Transportation, 2025\
 
 
 
