@@ -11,12 +11,12 @@ design:
   columns: '2'
 ---
 
-16\. CESASC Scholarship, by Chinese-American Engineers and Scientists Association of Southern California (CESASC), 2024\
-15\. Michael Trapasso Climate Impacts Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
-14\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2024\
-13\. Travel Award, by 2023 NSF I-GUIDE Summer School Program, 2023\
-12\. Hugh W. Calkins Applied GIS Award, by Department of Geography at the University at Buffalo - SUNY, 2023\
-11\. NSF Research Experience for Graduates (REG) Grant, by Human-Environment and Geographical Sciences (HEGS) program in the National Science Foundation (NSF), Student PI, 2022\
+16\. Guitar Level 8 Certificate (Amateur), National Music Examination, China, 2014\
+15\. Second Place Award, Mianyang City Youth Science and Technology Innovation Competition, 2015\
+14\. Champion, Mianyang City Soccer Tournament, 2015\
+13\. First Place Award, Mianyang City Crosstalk Competition, 2015\
+12\. MVP Award, University-level Soccer Tournament, University at Buffalo – SUNY CSSA, 2023
+11\. Dean’s List Student (for Academic Excellence), University at Buffalo – SUNY, 2016–2018\
 10\. Outstanding Graduate Award, by Nanjing Forestry University, 2021\
 9\. Funded student research project by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (KYCX20_0893), Department of Education, Jiangsu, China, Student PI, 2020\
 8\. National Scholarship Award, by Department of Education, China, 2020\
