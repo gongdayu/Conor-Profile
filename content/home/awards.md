@@ -18,8 +18,7 @@ design:
 12\. MVP Award, University-level Soccer Tournament, University at Buffalo – SUNY CSSA, 2023
 11\. Dean’s List Student (for Academic Excellence), University at Buffalo – SUNY, 2016–2018\
 10\. Presidential Scholarship (Full Ph.D. Fellowship), University at Buffalo – SUNY, 2020\
-9\. Funded student research project by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (KYCX20_0893), Department of Education, Jiangsu, China, Student PI, 2020\
-8\. National Scholarship Award, by Department of Education, China, 2020\
+8\. Third Prize, Student Case Competition, Supply Chain & Operations Management Club (SCOM), University at Buffalo – SUNY, 2023\
 7\. Advanced Honor Program, by University at Buffalo, 2018\
 6\. CSEE Second Place Poster Award, University at Buffal, 2023\
 5\. CSEE Graduate Leadership and Service, by University at Buffalo ,2023\
