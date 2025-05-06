@@ -13,7 +13,7 @@ title: Resume
   location: Buffalo, NY
   area: Transportation Systems
   description: |
-    Studying the effects of driving anxiety on young drivers using VR simulation and behavioral analysis.
+    Studying the effects of driving anxiety and VR-based driving simulation on behavior and perception.
 
 - title: Research Assistant
   company: TRAVL@UB Lab
@@ -21,15 +21,15 @@ title: Resume
   location: Buffalo, NY
   area: Human Factors
   description: |
-    Conducting driving simulator experiments, collecting physiological and behavioral data for safety research.
+    Conducting virtual driving simulation experiments, analyzing perception, anxiety, and AV interaction.
 
 - title: Transportation Intern
-  company: WSP Seattle Office
+  company: WSP Seattle
   date: Summer 2024
   location: Seattle, WA
   area: Transportation Planning
   description: |
-    Worked on corridor simulation and planning using VISSIM and GTFS.
+    Worked on corridor planning, equity analysis, and VISSIM simulation.
 
 # Education
 - title: Ph.D. in Transportation Systems Engineering
@@ -38,7 +38,7 @@ title: Resume
   location: Buffalo, NY
   area: Transportation Engineering
   description: |
-    Focus on behavioral modeling, VR simulation, and safety perception.
+    Dissertation focuses on VR-based anxiety and AV-human interaction studies.
 
 - title: M.E. in Civil Engineering
   company: University of New South Wales
@@ -46,7 +46,7 @@ title: Resume
   location: Sydney, Australia
   area: Traffic Flow Theory
   description: |
-    Research on AV-based traffic instability and system-level performance.
+    Studied instability patterns in automated traffic systems.
 
 - title: B.A. in Civil Engineering
   company: University at Buffalo
@@ -54,4 +54,4 @@ title: Resume
   location: Buffalo, NY
   area: Civil Infrastructure
   description: |
-    Specialized in transportation systems and geospatial analysis.
+    Specialized in geospatial and multimodal transportation analysis.
