@@ -6,7 +6,6 @@ weight: 20
 title: Resume
 ---
 
-# Experience
 - title: Ph.D. Candidate
   company: University at Buffalo
   date: 2021 - Present
@@ -15,7 +14,6 @@ title: Resume
   description: |
     Conducting VR-based behavioral studies on driving anxiety and safety.
 
-# Education
 - title: M.E. in Civil Engineering
   company: University of New South Wales
   date: 2018 - 2020
