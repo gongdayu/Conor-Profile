@@ -17,7 +17,7 @@ module:
 
 # Output formats — must include wowchemycms_config
 outputs:
-  home: [HTML, RSS, JSON, wowchemycms_config]
+  home: [HTML, RSS, JSON]
   section: [HTML, RSS]
   page: [HTML]
 
