@@ -1,34 +1,27 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+title: Conor Gongda Yu
+baseurl: 'https://gongdayu.github.io/Gongda-Profile/'
 
-title: Conor Gongda Yu # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
-
-############################
-## LANGUAGE
-############################
-
+# Language
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
+# Hugo Modules
 module:
   imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
-############################
-## ADVANCED
-############################
+# Output formats — must include wowchemycms_config
+outputs:
+  home: [HTML, RSS, JSON, wowchemycms_config]
+  section: [HTML, RSS]
+  page: [HTML]
 
+# Advanced
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -36,29 +29,37 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+
 disableAliases: true
-outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
-  section: [HTML, RSS]
+
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 75
   anchor: smart
+
 timeout: 600000
+
 taxonomies:
-  author: authors
   tag: tags
+  category: categories
   publication_type: publication_types
+  author: authors
+
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
-security:
-  _merge: deep
-sitemap:
-  _merge: deep
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
